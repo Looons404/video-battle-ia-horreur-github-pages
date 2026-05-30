@@ -300,7 +300,7 @@ create_index() {
 
     <footer>
       <div class="credits">
-        <p>Projet créé par <a href="https://www.youtube.com/@AywenVideos" target="_blank">Aywen</a></p>
+        <p>Projet créé par <a href="https://aywen.fr/" target="_blank">Aywen</a></p>
         <p>Effets sonores provenant de <a href="https://pixabay.com/fr/sound-effects/" target="_blank">Pixabay</a></p>
         <p style="margin-top: 20px; color: #505050;">⚠️ Code fourni à titre éducatif et expérimental</p>
       </div>
@@ -317,7 +317,7 @@ main() {
   echo ""
   echo -e "${BLUE}╔════════════════════════════════════════════════════════╗${NC}"
   echo -e "${BLUE}║   Déploiement GitHub Pages - Monorepo Jeux d'Horreur   ║${NC}"
-  echo -e "${BLUE}║                    ${TIMESTAMP}                   ║${NC}"
+  echo -e "${BLUE}║                    ${TIMESTAMP}                 ║${NC}"
   echo -e "${BLUE}╚════════════════════════════════════════════════════════╝${NC}"
   echo ""
 
